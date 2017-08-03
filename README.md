@@ -4,6 +4,8 @@ A *package finder* for [OpenBSD][openbsd].
 
 [openbsd]: http://www.openbsd.org
 
+**NOTE**: this project is here only for nostalgia; [pkg_info](http://man.openbsd.org/pkg_info) had this feature for a while.
+
 This is a little script I wrote many years ago to ease the maintenance of a OpenBSD system; it's like an `ls | grep` for FTP :)
 
 I'm releasing it because apparently the **pkg** tools on OpenBSD still does not have this feature; the "code" is BSD licensed.
